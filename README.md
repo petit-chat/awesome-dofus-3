@@ -1,19 +1,15 @@
-# awesome-dofus-3
+# Awesome Dofus 3 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[<img src="dofus-logo.png" align="right" width="100">](https://dofus.com)
 
 Curated list of resources to help you master Dofus 3 also known as Dofus Unity.
 
-## Social
+## Contents
 
-* [Dofus](https://dofus.com) - Official Dofus website.
-* [Jeux Online](https://dofus.jeuxonline.info/) - Also known as JoL, Jeux Online is a forum mainly focused on inter-server trading (collection items, end-game optimized PvP items).
-* [Sub-reddit](https://www.reddit.com/r/Dofus/)
-* [Fandom](https://dofuswiki.fandom.com/wiki/Dofus_Wiki)
-
-## Guides (Dungeons, Kamas, Quests)
-
-* [Dofus Planet](https://dofusplanet.fr) - Optimized dungeons and quests progress guide.
-* [Dofastuce](https://www.dofastuces.fr) - Guides on how to make kamas in-game.
-* [DofusPourLesNoobs](https://www.dofuspourlesnoobs.com/) - Website referencing tutorials for all Dofus quests.
+* [Equipment Building Helpers](#equipment-building-helpers)
+* [Guides (Dungeons, Kamas, Quests)](#guides-dungeons-kamas-quests)
+* [Miscellaneous Tools](#miscellaneous-tools)
+* [Social](#social)
 
 ## Equipment Building Helpers
 
@@ -22,15 +18,19 @@ Curated list of resources to help you master Dofus 3 also known as Dofus Unity.
 * [DofusRoom](https://www.dofusroom.com) - Multi-tool fan-site mainly focused on equipment building.
 * [Huzounet](https://huzounet.fr/) - French Dofus streamer/youtuber's website containing equipment ideas for PvP and PvM/PvE.
 
+## Guides (Dungeons, Kamas, Quests)
+
+* [Dofus Planet](https://dofusplanet.fr) - Optimized dungeons and quests progress guide.
+* [Dofastuce](https://www.dofastuces.fr) - Guides on how to make kamas in-game.
+* [DofusPourLesNoobs](https://www.dofuspourlesnoobs.com/) - Website referencing tutorials for all Dofus quests.
+
 ## Miscellaneous Tools
 
 * [Dofus Map](https://dofus-map.com/) - Game map referencing all farmable resources.
 * [DofusDB](https://dofusdb.fr/) - Database referencing all the data of Dofus.
 
-## Important Warnings
+## Social
 
-Please note that promoting or engaging in the following activities is illegal and against the game's terms of service:
-
-- Account reselling
-- Kamas selling
-- Botting in any forms
+* [Jeux Online](https://dofus.jeuxonline.info/) - Also known as JoL, Jeux Online is a forum mainly focused on inter-server trading (collection items, end-game optimized PvP items).
+* [Sub-reddit](https://www.reddit.com/r/Dofus/)
+* [Fandom](https://dofuswiki.fandom.com/wiki/Dofus_Wiki)

@@ -9,13 +9,19 @@ on:
       - main
 
 jobs:
+  awesome-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
   broken-links:
     name: Check for Broken Links
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-
       - name: Check the links
         uses: lycheeverse/lychee-action@v1
         with:
