@@ -21,7 +21,6 @@ Curated list of resources to help you master Dofus 3 also known as Dofus Unity.
 ## Guides (Dungeons, Kamas, Quests)
 
 * [Dofus Planet](https://dofusplanet.fr) - Optimized dungeons and quests progress guide.
-* [Dofastuce](https://www.dofastuces.fr) - Guides on how to make kamas in-game.
 * [DofusPourLesNoobs](https://www.dofuspourlesnoobs.com/) - Website referencing tutorials for all Dofus quests.
 
 ## Miscellaneous Tools
