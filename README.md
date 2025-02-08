@@ -27,7 +27,7 @@ Curated list of resources to help you master Dofus 3 also known as Dofus Unity.
 
 * [Dofus Map](https://dofus-map.com/) - Game map referencing all farmable resources.
 * [DofusDB](https://dofusdb.fr/) - Database referencing all the data of Dofus.
-* [Dofus Wiki](dofus.wiki) - Multilingual encyclopedia
+* [dofus-wiki](https://dofus.wiki/) - Multilingual encyclopedia
 
 ## Social
 
